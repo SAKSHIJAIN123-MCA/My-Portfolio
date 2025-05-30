@@ -46,7 +46,7 @@ const projects = [
     description: "Creative UI/UX with animations and responsive design.",
     icon: "🧑‍🎨",
     tech: "React + Vite",
-    link: "https://github.com/SAKSHIJAIN123-MCA/portfolio",
+    link: "https://github.com/SAKSHIJAIN123-MCA/My-Portfolio.git",
   },
 ];
 
